@@ -1,8 +1,7 @@
-# 📊 Análisis ClassicModels - Python & PostgreSQL
+#  Análisis ClassicModels - Python & PostgreSQL
 
 Proyecto de análisis de datos usando Python, pandas, PostgreSQL y Docker para el dataset ClassicModels.
-
-## 🚀 Configuración Rápida
+##  Configuración Rápida
 
 ### Prerrequisitos
 
