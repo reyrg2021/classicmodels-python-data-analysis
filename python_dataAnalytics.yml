@@ -1,0 +1,12 @@
+name: python_dataAnalytics
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - jupyter
+  - psycopg2
+  - pip
+  - pip:
+    - sqlalchemy

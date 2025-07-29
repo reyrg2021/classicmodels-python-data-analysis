@@ -1,0 +1,6 @@
+.env.original
+.virtual_documents
+.ipynb_checkpoints
+anaconda_projects
+funciones/__pycache__
+Python_dataAnalytics_rrg.rar
