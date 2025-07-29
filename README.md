@@ -103,13 +103,13 @@ jupyter lab                          # Desde ambiente activado
 
 ##  Seguridad
 
-- ✅ Archivo `.env` en `.gitignore`
-- ✅ Credenciales nunca en el código
-- ✅ Template `.env.example` para nuevos usuarios
-- ✅ Validación de credenciales por defecto
+-  Archivo `.env` en `.gitignore`
+-  Credenciales nunca en el código
+-  Template `.env.example` para nuevos usuarios
+-  Validación de credenciales por defecto
 
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 ### Docker no inicia
 ```bash
